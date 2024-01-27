@@ -1,0 +1,82 @@
+body, header {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 5em;
+    background-color: white;
+    padding-bottom: 0.5em;
+}
+
+#logo {
+    display: inline-block;
+    padding-left: 1.9em;
+    padding-right: 27em;
+}
+
+.menu, ul {
+    padding: 15px;
+    display: inline-block;
+}
+
+ul:hover {
+    cursor: pointer;
+    color: rgb(130, 16, 16);
+}
+
+body {
+    background-color: #1a1a1a;
+    font-family: "Roboto Slab";
+    font-weight: 900;
+    font-style: bold;
+}
+
+.content {
+    margin-left: 13em;
+    margin-right: 13em;
+}
+
+h1 {
+    color: white;
+    margin-top: 3px;
+}
+
+h2 {
+    color: #eeb20e;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+#trailer-print {
+    width: 55em;
+}
+
+.about-game {
+    background-color: white;
+}
+
+.pictures{
+    margin-top: 1em;
+    margin-left: 1.5em;
+    padding-top: 0.8em;
+}
+
+#one, #two{
+    padding-right: 1em;
+}
+
+h3 {
+    color: rgb(130, 16, 16);
+    font-weight: 900;
+    padding-left: 0.5em;
+}
+
+p{
+    font-weight: 370;
+    font-size: 17px;
+    padding-left: 0.5em;
+    padding: auto;
+}
+
