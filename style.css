@@ -202,18 +202,19 @@ footer {
 /*Botão - suporte*/
 button {
     background-color: rgb(52, 56, 177);
-    padding-left: 1.4em;
-    padding-right: 1.3em;
-    padding-top: 0.7em;
-    padding-bottom: 0.7em;
+    padding-left: 1.7em;
+    padding-right: 1.7em;
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
     border-radius: 1.4em;
     color: white;
-    margin-left: 86.8em;
+    margin-left: 86.5em;
     margin-top: 39.5em;
+    position: fixed;
 }
 
 .button-sup {
-    position: fixed;
+    position: absolute;
     bottom: 0;
     top: 0;
 }
